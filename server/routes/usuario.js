@@ -30,7 +30,7 @@ app.get('/usuario', function(req, res) {
 
         })
 });
-//pass:lATwJ7o5z5Ez4w5w  us:gatero
+
 app.post('/usuario', function(req, res) {
     let body = req.body;
 
